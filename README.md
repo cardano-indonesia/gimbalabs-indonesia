@@ -8,3 +8,6 @@ Gimbalabs Indonesia is an extension from Gimbalabs for Indonesian developers. It
 
 - [Gimbalabs Website](https://gimbalabs.com/gimbalgrid)
 - [Gimbalabs Indonesia Telegram](https://t.me/gimbalabsindonesia)
+
+### Minutes of Meeting
+- [Gimbalabs Indonesia Team Meeting #01: 20 January 2023](https://github.com/cardano-indonesia/gimbalabs-indonesia/issues/1)
