@@ -14,3 +14,4 @@ Gimbalabs Indonesia is an extension from Gimbalabs for Indonesian developers. It
 - [Gimbalabs Indonesia Team Meeting #01: 20 January 2023](https://github.com/cardano-indonesia/gimbalabs-indonesia/issues/1)
 - [Gimbalabs Indonesia Team Meeting #02: 08 March 2023](https://github.com/cardano-indonesia/gimbalabs-indonesia/issues/2)
 - [Gimbalabs Indonesia Team Meeting #03: 02 September 2023](https://github.com/cardano-indonesia/gimbalabs-indonesia/issues/3)
+- [Gimbalabs Indonesia Team Meeting #04: 15 September 2023](https://github.com/cardano-indonesia/gimbalabs-indonesia/issues/4)
